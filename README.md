@@ -14,7 +14,13 @@ Most things are as they were when I submitted. The only changes are:
   were sourced from various astronomy websites - however I thought I'd avoid any fuss of redistributing 
   other people's work by just whipping up my own dodgy textures.
   - JPG instead of RAW texture formats used to save on space (plus no faffing around with image sizes).
- 
+
+Requires freeglut and OpenGL. 
+
+Codeblocks project files included.
+
+See the demo video (with original textures): http://youtu.be/Bg67Nn71SBw
+
   
 Thanks and enjoy! :)
 

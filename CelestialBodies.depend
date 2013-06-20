@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1336972131 source:c:\ict215\project\celestialbodies\loadtexture.c
+	"loadTexture.h"
+
+1337603210 c:\ict215\project\celestialbodies\loadtexture.h
+	<stdio.h>
+	<GL/freeglut.h>
+
+1337607675 source:c:\ict215\project\celestialbodies\main.c
+	<stdio.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"VecOps.h"
+	"loadTexture.h"
+
+1337603653 c:\ict215\project\celestialbodies\vecops.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+
+1337261924 source:c:\ict215\project\celestialbodies\vecops.c
+	"VecOps.h"
+
+1371622305 source:f:\programming\planetsimrevis\source\loadtexture.c
+	"loadTexture.h"
+
+1371730358 f:\programming\planetsimrevis\source\loadtexture.h
+	<stdio.h>
+	<GL/freeglut.h>
+
+1337261924 source:f:\programming\planetsimrevis\source\vecops.c
+	"VecOps.h"
+
+1337603653 f:\programming\planetsimrevis\source\vecops.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+
+1371729991 source:f:\programming\planetsimrevis\source\main.c
+	<stdio.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"VecOps.h"
+	"loadTexture.h"
+
+1371621520 source:f:\programming\planetsimrevis\source\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
